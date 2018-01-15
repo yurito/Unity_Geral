@@ -16,6 +16,6 @@
 **Uhull!**  
 
 ### Outline
-Este Shader contorna o  esboço do modelo 3D. Pode-se alocar 01 cor no contorno.
+Este Shader contorna o  esboço do modelo 3D. Pode-se alocar cor e textura no contorno. Textura tem propriedades de movimento nos eixos.
 
 <p align="center"><img src="https://camo.githubusercontent.com/2383b9cc7e55009211915de83ffbd9111c63f9be/68747470733a2f2f692e6779617a6f2e636f6d2f63386638656338613237366161343738316235323733326335323136393164622e676966" /></p>
